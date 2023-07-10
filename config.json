@@ -1,0 +1,19 @@
+{
+  "params":
+  {
+    "local_server" : "True",
+    "local_uri" : "mysql://root:@localhost:3307/the_data_guy",
+    "prod_uri" : "mysql://root:@localhost:3307/the_data_guy",
+    "fb_url" : "https://facebook.com/",
+    "tw_url" : "https://twitter.com/",
+    "gh_url" : "https://github.com/",
+    "blog_name" : "The Data Guy",
+    "tag_line" : "A Blog liked by Data Techies",
+    "gmail_user" : "divyanshugawali7@gmail.com",
+    "gmail_password" : "gjwnpsasdbhacckj",
+    "about_text" : "Hi, My name is Divyanshu. I am not a Data Scientist, i am becoming one and always will coz you know the journey is ever ending.",
+    "no_of_posts" : 2,
+    "admin_user" : "divyanshu7",
+    "admin_password" : "bhadwya"
+  }
+}
